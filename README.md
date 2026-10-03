@@ -20,7 +20,7 @@ I work with data end to end: cleaning and exploring datasets, building dashboard
 - [AI HR](https://github.com/Saptarshi-Mandal-1234/AI-HR) - AI-powered HR analytics workflows and automation experiments
 - [AI HR 2](https://github.com/Saptarshi-Mandal-1234/AI-HR-2) - follow-up HR intelligence and automation project
 - [Automated Irrigation System](https://github.com/Saptarshi-Mandal-1234/AUTOMATED-IRRIGATION-SYSTEM) - sensor-driven irrigation monitoring and resource optimization
-- [CRM Project](https://github.com/Saptarshi-Mandal-1234/CRM-PROJECT) - customer relationship management and retention dashboarding
+- [RETAIN-IQ](https://github.com/Saptarshi-Mandal-1234/CRM-PROJECT) - customer relationship management and retention dashboarding
 - [MarketPulse AI](https://github.com/Saptarshi-Mandal-1234/MARKETPULSE-AI) - AI-powered market trend and pricing analysis
 - [MediAssist Chatbot](https://github.com/Saptarshi-Mandal-1234/MEDIASSIST-CHATBOT) - conversational support and healthcare assi
 - [Personal Website](https://github.com/Saptarshi-Mandal-1234/PERSONAL-WEBSITE) - personal portfolio and profile presence
