@@ -17,6 +17,20 @@ I work with data end to end: cleaning and exploring datasets, building dashboard
 - [Loan Default & Credit Risk Analysis](https://github.com/Saptarshi-Mandal-1234/LOAN-DEFAULT-CREDIT-RISK-ANALYSIS) - credit-risk modeling, ROC-AUC evaluation, and SHAP explainability
 - [Customer Churn Analysis](https://github.com/Saptarshi-Mandal-1234/CUSTOMER-CHURN-ANALYSIS) - churn insights and targeted retention recommendations
 - [AI Procurement Cost Savings Advisor](https://github.com/Saptarshi-Mandal-1234/AI-PROCUREMENT-COST-SAVINGS-ADVISOR) - data-informed procurement decisions
+- [AI HR](https://github.com/Saptarshi-Mandal-1234/AI-HR) - AI-powered HR analytics workflows and automation experiments
+- [AI HR 2](https://github.com/Saptarshi-Mandal-1234/AI-HR-2) - follow-up HR intelligence and automation project
+- [Automated Irrigation System](https://github.com/Saptarshi-Mandal-1234/AUTOMATED-IRRIGATION-SYSTEM) - sensor-driven irrigation monitoring and resource optimization
+- [CRM Project](https://github.com/Saptarshi-Mandal-1234/CRM-PROJECT) - customer relationship management and retention dashboarding
+- [MarketPulse AI](https://github.com/Saptarshi-Mandal-1234/MARKETPULSE-AI) - AI-powered market trend and pricing analysis
+- [MediAssist Chatbot](https://github.com/Saptarshi-Mandal-1234/MEDIASSIST-CHATBOT) - conversational support and healthcare assistance prototype
+- [MediVault Backend](https://github.com/Saptarshi-Mandal-1234/MediVault-Backend) - backend services for a secure healthcare data platform
+- [MediVault Frontend](https://github.com/Saptarshi-Mandal-1234/MediVault-Frontend) - frontend experience for a digital healthcare platform
+- [MetaMask Auth](https://github.com/Saptarshi-Mandal-1234/metamask-auth) - wallet authentication and blockchain access workflow
+- [Personal Website](https://github.com/Saptarshi-Mandal-1234/PERSONAL-WEBSITE) - personal portfolio and profile presence
+- [Spotland](https://github.com/Saptarshi-Mandal-1234/SPOTLAND) - travel-focused PWA for discovery, routes, and trip planning
+- [Social Media Skills](https://github.com/Saptarshi-Mandal-1234/social-media-skills) - social media and digital engagement learning project
+- [WIPRO Capstone Project](https://github.com/Saptarshi-Mandal-1234/WIPRO-capstone-project-12023002022009-Saptarshi_Mandal) - capstone project with analytics and business-focused recommendations
+- [WIPRO COE Class](https://github.com/Saptarshi-Mandal-1234/WIPRO_COE_CLASS) - coursework and collaborative program work
 
 ## Toolkit
 `Python` · `SQL` · `Power BI` · `Tableau` · `Pandas` · `Excel` · `Machine Learning`
