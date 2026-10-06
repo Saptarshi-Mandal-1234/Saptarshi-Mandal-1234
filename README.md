@@ -1,30 +1,48 @@
-# Hi, I'm Saptarshi Mandal
+# Saptarshi Mandal — Data Analyst Portfolio
 
-### Data Analyst | Turning data into practical decisions
+Welcome to my professional portfolio! I'm Saptarshi, a Computer Science and Technology undergrad at IEM Kolkata, combining data science, Python, SQL, and visual storytelling.
 
-I work with data end to end: cleaning and exploring datasets, building dashboards, and communicating findings that help teams make better decisions.
+## About
 
-[Portfolio](https://saptarshi-portfolio.saptarshi-mandal-portfolio.workers.dev/) · [GitHub Projects](https://github.com/Saptarshi-Mandal-1234?tab=repositories)
+🎓 **Education:** B.Tech in CST from IEM Kolkata (2023–2027, CGPA: 8.4)
 
-## Focus Areas
-- Data cleaning, exploratory data analysis, and business reporting
-- Dashboarding with Power BI and Tableau
-- Python and SQL analytics workflows
-- Machine learning and explainable risk analysis
+📊 **Skills:**
+- Data Analysis & SQL
+- Machine Learning & AI
+- Business Intelligence & Dashboards
+- Python, Pandas, Scikit-learn
+- Power BI, Tableau, Excel
+- Cloud & Security Foundations
 
-## Featured Work
-- [HR Attrition Analysis](https://github.com/Saptarshi-Mandal-1234/HR-ATTRITION-ANALYSIS) - workforce patterns and attrition insights
-- [Loan Default & Credit Risk Analysis](https://github.com/Saptarshi-Mandal-1234/LOAN-DEFAULT-CREDIT-RISK-ANALYSIS) - credit-risk modeling, ROC-AUC evaluation, and SHAP explainability
-- [Customer Churn Analysis](https://github.com/Saptarshi-Mandal-1234/CUSTOMER-CHURN-ANALYSIS) - churn insights and targeted retention recommendations
-- [AI Procurement Cost Savings Advisor](https://github.com/Saptarshi-Mandal-1234/AI-PROCUREMENT-COST-SAVINGS-ADVISOR) - data-informed procurement decisions
-- [AI HR](https://github.com/Saptarshi-Mandal-1234/AI-HR) - AI-powered HR analytics workflows and automation experiments
-- [AI HR 2](https://github.com/Saptarshi-Mandal-1234/AI-HR-2) - follow-up HR intelligence and automation project
-- [Automated Irrigation System](https://github.com/Saptarshi-Mandal-1234/AUTOMATED-IRRIGATION-SYSTEM) - sensor-driven irrigation monitoring and resource optimization
-- [RETAIN-IQ](https://github.com/Saptarshi-Mandal-1234/CRM-PROJECT) - customer relationship management and retention dashboarding
-- [MarketPulse AI](https://github.com/Saptarshi-Mandal-1234/MARKETPULSE-AI) - AI-powered market trend and pricing analysis
-- [MediAssist Chatbot](https://github.com/Saptarshi-Mandal-1234/MEDIASSIST-CHATBOT) - conversational support and healthcare assi
-- [Personal Website](https://github.com/Saptarshi-Mandal-1234/PERSONAL-WEBSITE) - personal portfolio and profile presence
-- [Spotland](https://github.com/Saptarshi-Mandal-1234/SPOTLAND) - travel-focused PWA for discovery, routes, and trip planning
+## Featured Projects
 
-## Toolkit
-`Python` · `SQL` · `Power BI` · `Tableau` · `Pandas` · `Excel` · `Machine Learning`
+### HR Employee Attrition Analysis
+- Analyzed 1,470 IBM HR records
+- Built predictive model with 0.81 ROC-AUC
+- Created Power BI dashboards for insights
+- **Tools:** Python, Scikit-learn, Power BI
+- [View Repository](https://github.com/Saptarshi-Mandal-1234/HR-attrition-analysis)
+
+### Loan Default & Credit Risk Analysis
+- Processed 32,000+ loan applications
+- Achieved 0.876 ROC-AUC with Logistic Regression
+- Built Tableau risk visualizations
+- **Tools:** Python, XGBoost, SHAP, Tableau
+- [View Repository](https://github.com/Saptarshi-Mandal-1234/Loan-Default-Credit-Risk-Analysis-)
+
+### Customer Churn Analysis
+- Analyzed 7,043 customer records
+- Developed retention strategies with SQL
+- Created Power BI dashboard with KPIs
+- **Tools:** SQL, MySQL Workbench, Power BI
+- [View Repository](https://github.com/Saptarshi-Mandal-1234/Customer-Churn-Analysis)
+
+## Let's Connect
+
+📧 **Email:** saptarshi2005.kgp@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/saptarshi-mandal-cs](https://www.linkedin.com/in/saptarshi-mandal-cs)  
+💻 **GitHub:** [@Saptarshi-Mandal-1234](https://github.com/Saptarshi-Mandal-1234)
+
+---
+
+© 2026 Saptarshi Mandal. All rights reserved.
